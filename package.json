@@ -1,6 +1,6 @@
 {
   "name": "mocha-fivemat-reporter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Fivemat reporter for mocha",
   "main": "index.js",
   "directories": "./lib",
