@@ -1,0 +1,27 @@
+{
+  "name": "mocha-fivemat-reporter",
+  "version": "0.0.1",
+  "description": "Fivemat reporter for mocha",
+  "main": "index.js",
+  "directories": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsawardekar/mocha-fivemat-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "reporter",
+    "fivemat"
+  ],
+  "dependencies": {
+    "mocha": "1.13.0"
+  },
+  "author": "Darshan Sawardekar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsawardekar/mocha-fivemat-reporter/issues"
+  },
+  "devDependencies": {
+    "grunt-release": "~0.6.0"
+  }
+}
