@@ -7,14 +7,19 @@ Reporter for the [mocha][1] test framework based on Tim Pope's
 
 ## Installation
 
-Install the reporter using npm globally or add it
-to your `package.json`.
+Add it to the `devDependencies` in your `package.json` and `npm install`.
 
-    $ npm install -g mocha-fivemat-reporter
+```json
+{
+  "devDependencies": {
+    "mocha-fivemat-reporter": "*"
+  }
+}
+```
 
 ## Usage
 
-After installation you can use `fivemat` as the reporter name with the
+After installation you can use `mocha-fivemat-reporter` as the reporter name with the
 `-R` or `--reporter` switch.
 
     $ mocha -R mocha-fivemat-reporter
