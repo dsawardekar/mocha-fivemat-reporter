@@ -3,7 +3,7 @@
 Reporter for the [mocha][1] test framework based on Tim Pope's
 [fivemat][2].
 
-![Fivemat Output](http://i.imgur.com/mcvLPZF.png?1)
+![Fivemat Output](http://i.imgur.com/DGFAOnL.png?1)
 
 ## Installation
 
