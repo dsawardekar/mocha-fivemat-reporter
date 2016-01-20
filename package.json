@@ -14,7 +14,7 @@
     "fivemat"
   ],
   "dependencies": {
-    "mocha": "1.13.0"
+    "mocha": "2.3.x"
   },
   "author": "Darshan Sawardekar",
   "license": "MIT",
