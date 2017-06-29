@@ -14,7 +14,7 @@
     "fivemat"
   ],
   "dependencies": {
-    "mocha": "^2.4.2"
+    "mocha": "^3.4.2"
   },
   "author": "Darshan Sawardekar",
   "license": "MIT",
@@ -22,6 +22,7 @@
     "url": "https://github.com/dsawardekar/mocha-fivemat-reporter/issues"
   },
   "devDependencies": {
-    "grunt-release": "~0.6.0"
+    "grunt": "^1.0.1",
+    "grunt-release": "^0.14.0"
   }
 }
