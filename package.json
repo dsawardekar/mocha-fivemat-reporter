@@ -13,13 +13,13 @@
     "reporter",
     "fivemat"
   ],
-  "dependencies": {
-    "mocha": "^2.4.2"
-  },
   "author": "Darshan Sawardekar",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dsawardekar/mocha-fivemat-reporter/issues"
+  },
+  "peerDependencies": {
+    "mocha": "*"
   },
   "devDependencies": {
     "grunt-release": "~0.6.0"
